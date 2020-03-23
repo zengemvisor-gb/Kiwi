@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "bootstrap-switch": "3.3.4",
+    "bootstrap-switch": "3.4.0",
     "marked": "0.8.2",
     "patternfly": "3.59.4",
     "prismjs": "1.19.0",
